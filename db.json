@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 33
+      "likes": 42
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 18
     },
     {
       "id": 3,
@@ -22,31 +22,73 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 6
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 6
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jon",
+      "image": "https://images.theconversation.com/files/137600/original/image-20160913-4948-6fyxz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop",
+      "likes": 2,
+      "id": 9
+    },
+    {
+      "name": "Selenium Gnomes",
+      "image": "https://i.pinimg.com/originals/ce/e9/60/cee9606f548b27bb2e4c045b252c8f0c.jpg",
+      "likes": 3,
+      "id": 10
+    },
+    {
+      "name": "Jessica",
+      "image": "https://i.ytimg.com/vi/ne9qNgY04b4/maxresdefault.jpg",
+      "likes": 99,
+      "id": 11
+    },
+    {
+      "name": "Lucy Chärms",
+      "image": "https://preview.redd.it/cwc71g1vzux31.jpg?auto=webp&s=15a3f8337bfc1bcc53b52b15f5bec495be260d1f",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "\"Your alarm is set for 2 hours and 11 minutes from now\"",
+      "image": "https://pbs.twimg.com/media/EZti-u3WAAA6KSt.jpg",
+      "likes": 9,
+      "id": 13
+    },
+    {
+      "name": "No Lämp",
+      "image": "https://i.redd.it/mnludws7gmj21.png",
+      "likes": 7,
+      "id": 14
+    },
+    {
+      "name": "Finished",
+      "image": "https://static.independent.co.uk/2021/01/04/09/iStock-969582980.jpg?width=982&height=726&auto=webp&quality=75",
+      "likes": 9003,
+      "id": 15
     }
   ]
 }
